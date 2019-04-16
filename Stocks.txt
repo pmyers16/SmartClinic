@@ -1,0 +1,5 @@
+Stock Prices:
+Twitter 34.71 +0.34
+Tesla 266.38 -1.32
+Google 1221.10 +3.23
+Lyft 56.11 -3.78
